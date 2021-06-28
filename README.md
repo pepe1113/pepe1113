@@ -2,12 +2,10 @@
 <h3 align="center">A self-learning Front-end developer from Taiwan</h3>
 
 - 🌱 I built website with **HTML、CSS、JavaScript、React.**
-
 - 📝 I regularly write articles on [https://pepe1113.medium.com/](https://pepe1113.medium.com/)
-
+- 📫 How to reach me **epep8413@gmail.com**
 - 💬 I can speak **Mandarin, English, Japanese**
 
-- 📫 How to reach me **epep8413@gmail.com**
 
 
 <h3 align="left">Languages and Tools</h3>
