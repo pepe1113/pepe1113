@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pei</h1>
 <h3 align="center">A self-learning Front-end developer from Taiwan</h3>
 
-- 🌱 I built website with **HTML、CSS、JavaScript、React.**
+- 🌱 I built website with **HTML、CSS、JavaScript、React.js**
+- 👩 Here's my Portfolio [https://wangpeihsin.netlify.app](https://wangpeihsin.netlify.app)
 - 📝 I regularly write articles on [https://pepe1113.medium.com/](https://pepe1113.medium.com/)
 - 📫 How to reach me **epep8413@gmail.com**
 - 💬 I can speak **Mandarin, English, Japanese**
@@ -25,3 +26,6 @@
      
 </p>
 
+![pepe1113's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepe1113&show_icons=true&hide=stars,issues&theme=dark )
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepe1113&layout=compact&theme=dark )
