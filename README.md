@@ -2,7 +2,7 @@
 ## 👋 Hi there, I'm Pei 
 
 - 🔭 A soy web developer working with **React, TypeScript, JavaScript, HTML, CSS**
-- 🪴 Writing coding learning journal and notes on life & work, basically in Mandarin. [**Here's my blog!**](https://peiwww-blog.netlify.app/)
+- 🪴 Writing coding learning journal and notes on life & work, basically in Mandarin. [**Here's my blog!**](https://blog.peiwang.dev)
 - 📫 Feel free to contact with me: [epep8413@gmail.com](mailto:contact@peiwang.dev)
 - You can check my [LinkedIn](https://www.linkedin.com/in/peihsin-wang) for more details about work experience.
 - ❤️ I’m into things like coffee☕, crochet🧶, hoshinogen(JPOP singer).
