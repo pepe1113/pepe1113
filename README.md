@@ -1,12 +1,11 @@
 
 ## 👋 Hi there, I'm Pei 
 
-- 🔭 A soy web developer working with **React, TypeScript, JavaScript, HTML, CSS**
+- 🔭 A front-end web developer working with **React, TypeScript, JavaScript, HTML, CSS**
 - 🪴 Writing coding learning journal and notes on life & work, basically in Mandarin. [**Here's my blog!**](https://blog.peiwang.dev)
-- 📫 Feel free to contact with me: [epep8413@gmail.com](mailto:contact@peiwang.dev)
-- You can check my [LinkedIn](https://www.linkedin.com/in/peihsin-wang) for more details about work experience.
+- 💼 You can check my [LinkedIn](https://www.linkedin.com/in/peihsin-wang) for more details about work experience.
 - ❤️ I’m into things like coffee☕, crochet🧶, hoshinogen(JPOP singer).
-- 🐣 A newbie in bouldering. V2 level still hard to me
+- 🐣 A newbie in bouldering. V2 level still hard to me.
 - 📸 Photography lover [@pei-film-club](https://www.instagram.com/_pppeifilm)
 - ⚡ Fun fact: my favorite series is The Big Bang Theory, even though most of the technical terms go over my head.
 - [my resume website](https://resume.peiwang.dev)
