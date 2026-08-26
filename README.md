@@ -1,14 +1,13 @@
 
-## 👋 Hi there, I'm Pei 
+## 👋 I'm Pei — I write code, crochet, and drink too much coffee.
 
-- 🔭 A front-end web developer working with **React, TypeScript, JavaScript, HTML, CSS**
-- 🪴 Writing coding learning journal and notes on life & work, basically in Mandarin. [**Here's my blog!**](https://blog.peiwang.dev)
+- 👩‍💻 Front-end developer who cares about the details
+ `React · TypeScript · JavaScript · HTML · CSS`
+- 🌐 Here's [My Website](https://resume.peiwang.dev), a easy way to know about me.
 - 💼 You can check my [LinkedIn](https://www.linkedin.com/in/peihsin-wang) for more details about work experience.
-- ❤️ I’m into things like coffee☕, crochet🧶, hoshinogen(JPOP singer).
-- 🐣 A newbie in bouldering. V2 level still hard to me.
-- 📸 Photography lover [@pei-film-club](https://www.instagram.com/_pppeifilm)
-- ⚡ Fun fact: my favorite series is The Big Bang Theory, even though most of the technical terms go over my head.
-- [my resume website](https://resume.peiwang.dev)
+- ❤️ I’m into things like coffee ☕, crochet 🧶, and JPOP music.
+- 📸 Also documenting moments [@pei-film-club](https://www.instagram.com/_pppeifilm)
+- Writing coding learning journal and notes on life & work in [my blog](https://blog.peiwang.dev), mostly in Mandarin.
 
    
 ## Tech Stack
